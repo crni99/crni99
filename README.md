@@ -19,6 +19,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![NUnit](https://img.shields.io/badge/NUnit-100000?style=for-the-badge&logo=xUnit&logoColor=005B0B&labelColor=005B0B&color=005B0B)
 ![xUnit](https://img.shields.io/badge/xUnit-100000?style=for-the-badge&logo=xUnit&logoColor=5c2992&labelColor=5c2992&color=5c2992)
 
