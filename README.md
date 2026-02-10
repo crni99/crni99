@@ -1,46 +1,99 @@
 ### Hi there, I'm Ognjen 👋
 
-<hr>
+**Full-Stack Developer** specializing in **ASP.NET Core** and **React**
 
-### Languages and Tools:
+🔭 Currently building enterprise-grade applications with Clean Architecture  
+💼 Software Developer passionate about scalable, maintainable systems  
+🌱 Learning advanced cloud patterns with Azure and AWS  
+⚡ Open to collaboration on interesting projects  
 
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/learn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ognj3n/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andjelicb.ognjen@gmail.com)
 
-[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+---
 
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)](https://html.com/)
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](https://www.javascript.com/)
-[![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)](https://jquery.com/)
-[![React Badge](https://shields.io/badge/react-black?logo=react&style=for-the-badge)](https://react.dev/)
+### 🚀 Featured Project
 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
-[![xUnit](https://img.shields.io/badge/xUnit-100000?style=for-the-badge&logo=xUnit&logoColor=5c2992&labelColor=5c2992&color=5c2992)](https://xunit.net/)
-[![NUnit](https://img.shields.io/badge/NUnit-100000?style=for-the-badge&logo=xUnit&logoColor=005B0B&labelColor=005B0B&color=005B0B)](https://nunit.org/)
+<div align="center">
+</div>
 
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+**🛫 [Airport Automation](https://github.com/crni99/airport-automation)** - Comprehensive full-stack airport management system  
+🔹 **Tech:** ASP.NET Core Web API | MVC | React | SQL Server/PostgreSQL/MySQL  
+🔹 **Features:** Clean Architecture | JWT Auth | Role-Based Access | CI/CD | Multi-Database Support  
+🔹 **Live Demos:** [API](https://airport-automation-bucbb0eff0dzcuaz.switzerlandnorth-01.azurewebsites.net/swagger/index.html) | [MVC](https://airport-automation-mvc-d8ekhabyg5dgeedk.switzerlandnorth-01.azurewebsites.net/) | [React](https://airport-automation.vercel.app/)
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+---
 
-[![Cvent](https://img.shields.io/badge/Cvent-006ae1?style=for-the-badge&logo=C&logoColor=white)](https://www.cvent.com/)
-[![Brightspot](https://img.shields.io/badge/Brightspot-faf9f9?style=for-the-badge&logo=Okta&logoColor=red)](https://www.brightspot.com/)
+### 🛠️ Tech Stack
 
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<hr>
+#### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-### Reach me on:
+</td>
+<td valign="top" width="33%">
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+#### Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+#### Testing & Tools
+![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge)
+![NUnit](https://img.shields.io/badge/NUnit-22B14C?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+#### IDEs
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
-  <a href="mailto:andjelicb.ognjen@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://www.linkedin.com/in/ognj3n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crni99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<hr>
+---
 
-<h2  align="left">💻 Check Out My Repos ⬇️ </h2>
+### 💼 What I'm Currently Working On
+
+- 🔨 Building scalable backend systems with **ASP.NET Core** and **Clean Architecture**
+- 🎨 Crafting responsive frontends with **React** and **Material-UI**
+- ☁️ Deploying applications to **Azure** with **CI/CD pipelines**
+- 📚 Exploring **microservices** architecture and **event-driven systems**
